@@ -2,7 +2,7 @@
 
 int main(){
     char genero;
-    int tam=3, cont_mulheres=0;
+    int tam=50, cont_mulheres=0;
     float  altura, media, mulher_altura_cont=0;
 
     for(int i=1; i<=tam; i++){
@@ -30,3 +30,4 @@ int main(){
 
     return 0;
 }
+
